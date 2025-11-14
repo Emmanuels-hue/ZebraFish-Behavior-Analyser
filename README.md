@@ -23,17 +23,17 @@ Behavioral analysis experiments
 Drug-response and neuroactivity studies
 Academic or lab-based data collection
 
-Tech Stack<img width="472" height="249" alt="Screenshot 2025-11-14 120921" src="https://github.com/user-attachments/assets/f9e65abf-2916-47e7-ad14-b56c590186f1" />
-<img width="1919" height="684" alt="Screenshot 2025-11-14 120849" src="https://github.com/user-attachments/assets/c54282ef-3a73-4f21-b1a1-135450fcb345" />
-<img width="1893" height="257" alt="Screenshot 2025-11-14 120844" src="https://github.com/user-attachments/assets/76d746fa-17b3-4f0b-ac15-2a34f4d98f94" />
-<img width="1115" height="585" alt="Screenshot 2025-11-14 120834" src="https://github.com/user-attachments/assets/ea04e511-14e4-4103-947c-7442d4456a9f" />
-<img width="870" height="585" alt="Screenshot 2025-11-14 120825" src="https://github.com/user-attachments/assets/1a0e8280-a3c3-45a4-92ff-0527a068c5fa" />
-<img width="1913" height="744" alt="Screenshot 2025-11-14 120816" src="https://github.com/user-attachments/assets/5adb3610-9ed3-4d93-aca3-1a7e67c8d066" />
-<img width="1919" height="691" alt="Screenshot 2025-11-14 120348" src="https://github.com/user-attachments/assets/67f125ee-2521-43b1-b0e3-3df998b38f22" />
-
+Tech Stack
 Language: Python
 Libraries: OpenCV, NumPy, Matplotlib, Tkinter
 Platform: Windows (standalone .exe and source code versions available)
 
 ***DISCLAIMER -  The screeshots are from when i performed pre and post comparison analysis using same video (A goldfish swimming with black background : |https://www.youtube.com/watch?v=zZD-7o97ugk&list=PPSV|) with pre, being the video at normal speed and post being the same video at 2X speed. This was because i couldn't find Zebrafish video online , so went on to perform it using goldfish.***
 
+<img width="472" height="249" alt="Screenshot 2025-11-14 120921" src="https://github.com/user-attachments/assets/f9e65abf-2916-47e7-ad14-b56c590186f1" />
+<img width="1919" height="684" alt="Screenshot 2025-11-14 120849" src="https://github.com/user-attachments/assets/c54282ef-3a73-4f21-b1a1-135450fcb345" />
+<img width="1893" height="257" alt="Screenshot 2025-11-14 120844" src="https://github.com/user-attachments/assets/76d746fa-17b3-4f0b-ac15-2a34f4d98f94" />
+<img width="1115" height="585" alt="Screenshot 2025-11-14 120834" src="https://github.com/user-attachments/assets/ea04e511-14e4-4103-947c-7442d4456a9f" />
+<img width="870" height="585" alt="Screenshot 2025-11-14 120825" src="https://github.com/user-attachments/assets/1a0e8280-a3c3-45a4-92ff-0527a068c5fa" />
+<img width="1913" height="744" alt="Screenshot 2025-11-14 120816" src="https://github.com/user-attachments/assets/5adb3610-9ed3-4d93-aca3-1a7e67c8d066" />
+<img width="1919" height="691" alt="Screenshot 2025-11-14 120348" src="https://github.com/user-attachments/assets/67f125ee-2521-43b1-b0e3-3df998b38f22" />
