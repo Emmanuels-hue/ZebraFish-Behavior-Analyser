@@ -1,4 +1,6 @@
 Zebrafish Behavior Analyzer
+
+
 The Zebrafish Behavior Analyzer is a Windows desktop application built in Python for extracting key behavioral metrics from zebrafish swimming videos. It simplifies the process of video-based behavior tracking using motion detection and analysis techniques.
 
 What It Does
